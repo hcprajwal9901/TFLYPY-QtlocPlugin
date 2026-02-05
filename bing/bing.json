@@ -1,0 +1,10 @@
+{
+    "Keys": ["bing"],
+    "Provider": "bing",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OnlineMappingFeature",
+        "OnlineTileMappingFeature"
+    ]
+}

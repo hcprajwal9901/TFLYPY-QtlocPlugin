@@ -1,0 +1,28 @@
+# Build directories
+debug/
+release/
+build/
+# Qt build files
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+.qmake.stash
+# Compiled binaries
+*.dll
+*.so
+*.exe
+*.app
+# Qt Creator files
+*.pro.user
+*.pro.user.*
+.qtcreator/
+# IDE files
+.vscode/
+.idea/
+# OS files
+.DS_Store
+Thumbs.db
